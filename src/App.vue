@@ -2,18 +2,18 @@
   <div id="app">
     <!-- <img alt="Vue logo" src="./assets/logo.png">
     <ApolloExample msg="Welcome to Your Vue.js App"/> -->
-    <HelloWorld/>
+    <NeverGiveUp/>
   </div>
 </template>
 
 <script>
 // import ApolloExample from './components/ApolloExample.vue'
-import HelloWorld from './components/HelloWorld.vue'
+import NeverGiveUp from './components/NeverGiveUp.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    NeverGiveUp
   }
 }
 </script>
