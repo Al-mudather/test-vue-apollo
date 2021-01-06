@@ -16,7 +16,7 @@
     "apollo-link-http": "^1.5.17",
     "apollo-link-state": "^0.4.2",
     "apollo-upload-client": "^13.0.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
     "vue-apollo": "^3.0.0-beta.11",
